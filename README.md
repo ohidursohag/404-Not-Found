@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{No Internet 404}</h1>
+<h1 align="center">{404 Not Found}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/ohidursohag/No-Internet-404">
+    <a href="https://github.com/ohidursohag/404-Not-Found">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://ohidursohag.github.io/404-Not-Found/">
       Solution
     </a>
     <span> | </span>
